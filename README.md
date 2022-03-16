@@ -19,7 +19,8 @@ O Eslint e o Prettier são plugins que ajudam durante o desenvolvimento de códi
 npx https://github.com/umExDev/eslint-prettier
 ```
 
-[X] Instalando o Sucrase como dependência para poder usar o import no node sem passar trabalho e sem precisar configurar o Babel ou outra forma para eu poder importar módulos no Node. Instale como dependência de desenvolvimento
+[X] Instalando o Sucrase como dependência para poder usar o import no node sem passar trabalho e sem precisar configurar o Babel ou outra forma para eu poder importar módulos no Node. Instale como dependência de desenvolvimento.
+-- Depois de ler a documentação do Sucrase e entender os recursos e as limitações, eu estou questionando se uso o Babel ou ES-Build para transpilar meu código. Ainda vou aguardar a evolução do treinamento para ver se faz sentido usar o Sucrase.
 ```
 npm install sucrase -D
 ```
