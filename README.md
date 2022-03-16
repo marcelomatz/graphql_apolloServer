@@ -39,3 +39,4 @@ npm i nodemon
 ```
  "dev": "nodemon -r sucrase/register src/index.js"
 ```
+- [X] Criando o primeiro modelo de Schema para query no GraphQL
