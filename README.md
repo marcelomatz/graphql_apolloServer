@@ -12,4 +12,9 @@ npm init -y
 npm install apollo-server graphql
 ```
 
-- [] Configurar o Eslint e o Prettier
+- [X] Configurar o Eslint e o Prettier
+O Eslint e o Prettier são plugins que ajudam durante o desenvolvimento de código. Fiz um fork de outro projeto onde tem um script que faz a configuração do ESLint e do Prettier automaticamente.
+
+```
+npx https://github.com/umExDev/eslint-prettier
+```
